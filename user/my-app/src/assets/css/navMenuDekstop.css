@@ -1,0 +1,17 @@
+.nav-logo{
+    width: 100px;
+    height: 30px;
+}
+.cart-btn{
+    padding: 5px 15px 5px 15px;
+    color: #FAFDFB;
+    border-radius: 20px !important;
+    border:0.5px solid #E43023;
+    background: #E43023 !important;
+}
+
+.search-autocomplete{
+    z-index: 10000;
+    height: 100px;
+    background-color: white;
+}

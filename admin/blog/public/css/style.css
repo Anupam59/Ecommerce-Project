@@ -1,0 +1,88 @@
+.wrapper-padding{
+padding: 1% 1% 1% 1% ;
+}
+.table-img{
+	width:100px;
+	height:auto;
+}
+
+.loading-icon{
+    width:100px;
+	height:auto;
+}
+.addButton{
+    padding: 14px 0 0px 20px;
+}
+select {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: block!important;
+    padding: 8px 5px 8px 5px;
+}
+.iconBtn{
+    width: 40px !important;
+    height: 40px !important;
+    margin: 3px !important;
+    padding: 5px !important;
+    font-size: 20px !important;
+}
+.categoryImg{
+    width:30px;
+    height:auto;
+}
+.imgPreview{
+    border: none;
+    width: 100%;
+    object-fit: cover;
+    height: 320px;
+}
+.imgOnRow{
+    border: none !important;
+    width: 100%;
+    object-fit: cover;
+    height: 200px;
+}
+.imgOnRow1{
+    border: none !important;
+    width: 100%;
+    object-fit: cover;
+    height: 150px;
+}
+.ModelZIndexTop{
+    z-index: 999999 !important;
+}
+.OverFlowScroll{
+    overflow: scroll !important;
+    width: auto;
+    height: 400px;
+    overflow: scroll;
+}
+[type=checkbox]:checked, [type=checkbox]:not(:checked) {
+    position: relative !important;
+    opacity: 2 !important;
+    pointer-events: fill !important;
+}
+.nevMenuItem{
+    background: #444444 !important;
+    color: #FFFFFF !important;
+    margin-left: -28px;
+}
+.nevMenuItem:hover{
+    background: #FFFFFF !important;
+    color: #EE1C25 !important;
+    margin-left: -28px;
+}
+.nevItemText{
+    color: #FFFFFF !important;
+    padding: 6px 45px 9px 6px;
+}
+.nevItemText:hover{
+    color: #EE1C25 !important;
+    padding: 6px 45px 9px 6px;
+}
+.SiteInfoTextArea{
+    width: 700px !important;
+    height: 500px !important;
+}
+
+
+

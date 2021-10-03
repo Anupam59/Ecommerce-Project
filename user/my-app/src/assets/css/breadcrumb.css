@@ -1,0 +1,11 @@
+.breadcrumb{
+    background: #ffffff !important;
+    border-radius: 2px !important;
+    box-shadow: 0 0 3px 0 rgba(57, 78, 234, 0.1)!important;
+}
+.breadcrumb-item{
+    text-decoration: none;
+}
+.breadcrumb-item:hover{
+    text-decoration: none;
+}
